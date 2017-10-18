@@ -1,13 +1,13 @@
 {
   "thumbnail": "https://modules-qa.franklyinc.com/assets/WeatherRadar/icon_stroke_weather_weatherradar.svg",
   "tag": "qa",
-  "affiliates":["kwtv"],
+  "affiliates":["kotv"],
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
   },
   "defaultProps": {
-    "title": "title nadia kwtv",
+    "title": "title nadia kotv",
     "titleColor": "#EB1515",
     "backgroundColor": "black",
     "layout": "hero",
